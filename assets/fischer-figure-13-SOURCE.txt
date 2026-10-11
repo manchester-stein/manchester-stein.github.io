@@ -1,0 +1,10 @@
+Figure 13: Latent representation of the number 1.
+Authors: Adrian Fischer, Robert E. Gaunt and Yvik Swan.
+Article: Stein's method of moments on the sphere.
+Published reference: Bernoulli 32(2), 2026, 1186-1212. DOI: 10.3150/25-BEJ1898.
+Published article link: https://projecteuclid.org/journals/bernoulli/volume-32/issue-2/Steins-method-of-moments-on-the-sphere/10.3150/25-BEJ1898.short
+Figure image extracted directly from page 13 of the author preprint:
+https://arxiv.org/pdf/2407.02299 (downloaded 5 October 2026).
+Original embedded image: Im13, 1667 x 1667 RGBA PNG.
+Pixels unmodified. The SVG viewBox excludes transparent margins; decorative sun rays are added outside the figure.
+Attribution is provided in the illustration caption, revealed by typing stein on the homepage; full provenance is retained here.

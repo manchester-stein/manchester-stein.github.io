@@ -1,0 +1,1 @@
+(()=>{try{const t=localStorage.getItem('manchester-stein-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t}catch{}})();

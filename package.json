@@ -1,0 +1,10 @@
+{
+  "name": "manchester-stein-workshop",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Manchester Workshop on Stein's Method and Statistics, 9–12 February 2027",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs"
+  }
+}

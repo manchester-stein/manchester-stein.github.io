@@ -1,0 +1,6 @@
+Meteocons v2.0.0 by Bas Milius. MIT licence in LICENSE.txt.
+Source: https://github.com/basmilius/meteocons
+Pinned commit: fdd19749b9389f0b4e00d55584b083a7ab2deded
+Original paths: design/fill/export/wi_{icon-name}.svg
+Bundled original static exports, filenames shortened by removing wi_.
+Fetched 2026-10-05. No artwork modifications.
